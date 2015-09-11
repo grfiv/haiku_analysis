@@ -7,3 +7,4 @@ The text files are contained in **corpus_haiku.zip**
 
 See [HaikuClusterReport.pdf](https://github.com/grfiv/haiku_analysis/blob/master/HaikuClusterReport.pdf) for a detailed report. The **Technology** appendix of that report describes the technology used.
 
+[![DOI](https://zenodo.org/badge/5738/grfiv/haiku_analysis.svg)](https://zenodo.org/badge/latestdoi/5738/grfiv/haiku_analysis)
